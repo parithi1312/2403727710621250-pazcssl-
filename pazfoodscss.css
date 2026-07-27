@@ -1,0 +1,213 @@
+.parent {
+    border-radius: 50%;
+
+    height: 750px;
+    width: 750px;
+    background-color: rgb(94, 2, 54);
+    padding: 40px;
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.p1 {
+    border-radius: 55%;
+
+    height: 145px;
+    width: 145px;
+    background-color: rgb(6, 14, 128);
+    padding: 20px;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    align-items: center;
+
+    flex-direction: row;
+    justify-content: center;
+}
+
+.c1 {
+    border-radius: 55%;
+    height: 45px;
+    width: 45px;
+    border: 1px rgb(74, 41, 0);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(18, 3, 69);
+}
+
+.b1 {
+    border-radius: 55%;
+
+    height: 22px;
+    width: 22px;
+    border: 1px black;
+    text-align: center;
+    background-color: rgb(175, 165, 214);
+    justify-content: center;
+}
+
+.b2 {
+    border-radius: 55%;
+
+    height: 22px;
+    width: 22px;
+    border: 1px black;
+    text-align: center;
+    background-color: rgb(5, 7, 111);
+    justify-content: center;
+}
+
+.b3 {
+    border-radius: 55%;
+
+    height: 22px;
+    width: 22px;
+    border: 1px rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(245, 1, 1);
+    justify-content: center;
+}
+
+.b4 {
+    border-radius: 55%;
+
+    height: 22px;
+    width: 22px;
+    border: 1px black;
+    text-align: center;
+    background-color: rgb(96, 10, 35);
+    justify-content: center;
+}
+
+.b5 {
+    border-radius: 55%;
+
+    height: 22px;
+    width: 22px;
+    border: 1px black;
+    text-align: center;
+    background-color: rgba(0, 255, 132, 0.903);
+    justify-content: center;
+}
+
+.p2 {
+    border-radius: 55%;
+
+    height: 145px;
+    width: 145px;
+    background-color: rgb(221, 245, 104);
+    padding: 20px;
+    display: flex;
+    gap: 12px;
+    align-items: center;
+
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.c2 {
+    border-radius: 55%;
+
+    height: 45px;
+    width: 45px;
+    border: 1px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(33, 236, 10);
+}
+
+.p3 {
+    border-radius: 55%;
+
+    height: 145px;
+    width: 145px;
+    background-color: rgb(112, 156, 138);
+    padding: 20px;
+    display: flex;
+    gap: 12px;
+    align-items: center;
+
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.c3 {
+    border-radius: 55%;
+
+    height: 45px;
+    width: 45px;
+    border: 1px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(209, 9, 192);
+}
+
+.p4 {
+    border-radius: 55%;
+
+    height: 145px;
+    width: 145px;
+    background-color: rgb(101, 182, 145);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+
+    gap: 12px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.c4 {
+    border-radius: 55%;
+
+    height: 45px;
+    width: 45px;
+    border: 1px black;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(212, 151, 255);
+}
+
+.p5 {
+    border-radius: 50%;
+
+    height: 145px;
+    width: 145px;
+    background-color: rgb(0, 255, 13);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+
+    gap: 15px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.c5 {
+    border-radius: 50%;
+
+    height: 40px;
+    width: 40px;
+    border: 1px black;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(236, 33, 236);
+}
